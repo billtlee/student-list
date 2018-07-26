@@ -39,4 +39,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Uncle BillisHere
 * Drew Entriken
 * Mark Nichols
+* Bill Lee
 * ADD YOUR NAME ABOVE HERE
